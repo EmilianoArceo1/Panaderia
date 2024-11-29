@@ -1,0 +1,7 @@
+Nombre 3
+Pera 1
+Manzana 1
+Durazno 20
+Platano 20
+Panes 40
+chile 30
